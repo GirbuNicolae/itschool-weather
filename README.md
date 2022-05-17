@@ -1,1 +1,1 @@
-# itscholl-weather
+# itschool-weather
